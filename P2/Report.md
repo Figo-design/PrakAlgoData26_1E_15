@@ -47,4 +47,39 @@ Jawaban
 
 -> Percobaan 3
 
+Hasil running
 
+<img width="217" height="224" alt="image" src="https://github.com/user-attachments/assets/ffc23a55-8dc8-4417-bbf3-11a158ce5b55" />
+
+Pertanyaan
+
+<img width="768" height="681" alt="image" src="https://github.com/user-attachments/assets/b87239f0-ee53-476b-8e23-fbc5aae09c18" />
+
+Jawaban
+1. public Mahasiswa15(String nm15, String nim15, double ipk15, String kls15)
+2. Membuat objek baru dari class mahasiswa menggunakan parameter dan mengisi nilai atributnya
+3. Error karena class mahasiswa hanya memiliki konsruktor berparameter dan java tidak bisa membuat konstruktor default otomatis jika kita sudah membuat konstruktor sendiri
+4. Tidak harus karena pemanggilan method bergantung pada kebutuhan bukan urutan penulisan
+5. <img width="913" height="23" alt="image" src="https://github.com/user-attachments/assets/c2f88e62-f982-4780-8889-c69268242e35" />
+
+-> Percobaan 4
+
+1. Latihan 1
+
+<img width="754" height="752" alt="image" src="https://github.com/user-attachments/assets/3941a0a2-3e52-493c-aef0-847618e51805" />
+
+<img width="664" height="360" alt="image" src="https://github.com/user-attachments/assets/5bd4cc5a-1231-4af2-a4e8-3f2cb84fc75f" />
+
+Hasil running
+
+<img width="451" height="367" alt="image" src="https://github.com/user-attachments/assets/21a3e72d-ece9-45cf-b3ed-a7968e2f41ae" />
+
+2. Latihan 2
+
+<img width="749" height="713" alt="image" src="https://github.com/user-attachments/assets/65cdca6a-cd1f-4653-b2f0-d7a3d81bb24f" />
+
+<img width="707" height="443" alt="image" src="https://github.com/user-attachments/assets/51830ef1-3898-43f3-bbda-c234928f283b" />
+
+Hasil running
+
+<img width="319" height="407" alt="image" src="https://github.com/user-attachments/assets/40480d5e-d37f-4bc0-a53c-368f0b9aee40" />

@@ -77,3 +77,6 @@ Jawaban
 
 2. Hasil running
 
+<img width="353" height="713" alt="image" src="https://github.com/user-attachments/assets/33bf726b-9a18-44cd-83b2-5b7ca20b4673" />
+
+<img width="327" height="277" alt="image" src="https://github.com/user-attachments/assets/b1787e21-4e92-4657-9037-cc73075fc0ae" />

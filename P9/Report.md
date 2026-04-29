@@ -55,3 +55,13 @@ Jawaban
    - Ambil isi stack(dibalik otomatis)
    - Return hasil
 2. Hasilnya tetap sama dengan syarat nilai > 0, jika nilai negatif maka nilai yang masuk stack tidak hanya 0/1, tetapi bisa -1
+
+-> Latihan
+
+Hasil running
+
+<img width="411" height="501" alt="image" src="https://github.com/user-attachments/assets/f1fb731a-774e-4186-9cdd-d37c1353b04a" />
+
+<img width="413" height="566" alt="image" src="https://github.com/user-attachments/assets/a09195b3-651d-489b-9c61-2c9e1229f165" />
+
+<img width="412" height="599" alt="image" src="https://github.com/user-attachments/assets/303048e1-e88d-47cb-9a33-b91a112b8f96" />

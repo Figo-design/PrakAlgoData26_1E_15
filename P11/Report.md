@@ -40,3 +40,14 @@ Jawaban
 
 Hasil running
 
+<img width="491" height="701" alt="image" src="https://github.com/user-attachments/assets/8ef42db8-0086-4d77-8be2-7e974098d015" />
+
+<img width="490" height="713" alt="image" src="https://github.com/user-attachments/assets/34f3c133-1b44-43b3-b30d-1f588dd8fdeb" />
+
+<img width="491" height="578" alt="image" src="https://github.com/user-attachments/assets/6237af64-dbe2-47d1-8d77-d6afe85ccb87" />
+
+<img width="492" height="540" alt="image" src="https://github.com/user-attachments/assets/6fbf39d4-9d98-472c-be36-cc2a0a4e4402" />
+
+<img width="490" height="590" alt="image" src="https://github.com/user-attachments/assets/e5feecb2-61c6-4932-ad14-108f29bbce58" />
+
+<img width="495" height="514" alt="image" src="https://github.com/user-attachments/assets/f3ee4a4d-de18-4352-a5f5-abbe0d07b409" />

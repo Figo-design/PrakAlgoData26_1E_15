@@ -72,3 +72,22 @@ Jawaban
 
 Hasil running
 
+<img width="400" height="783" alt="image" src="https://github.com/user-attachments/assets/37e1e0c8-f5eb-49c8-9966-e470eee0dac6" />
+
+<img width="399" height="775" alt="image" src="https://github.com/user-attachments/assets/311f64fe-5c83-48d9-bf1c-65188e9618b8" />
+
+<img width="401" height="574" alt="image" src="https://github.com/user-attachments/assets/6355a823-dd98-4f44-9776-f3c9ea140c8c" />
+
+<img width="397" height="602" alt="image" src="https://github.com/user-attachments/assets/ab2ca17d-faa4-46b5-beb6-eb900ebc51ba" />
+
+<img width="401" height="423" alt="image" src="https://github.com/user-attachments/assets/59303db9-cc25-4ee5-a212-bae8daf3e1cd" />
+
+<img width="397" height="423" alt="image" src="https://github.com/user-attachments/assets/dd64eec8-3ea9-43db-a82a-c35e756f8b85" />
+
+<img width="401" height="399" alt="image" src="https://github.com/user-attachments/assets/82b40633-6960-4e8f-8582-f2019c773899" />
+
+<img width="394" height="401" alt="image" src="https://github.com/user-attachments/assets/cf12145b-f978-4055-bc3d-68a55fd11f03" />
+
+<img width="408" height="418" alt="image" src="https://github.com/user-attachments/assets/2fa9d0f0-b65b-4041-8070-a1ff4fc1b818" />
+
+<img width="402" height="674" alt="image" src="https://github.com/user-attachments/assets/b4211824-3ee2-436c-8136-547a24a627cb" />

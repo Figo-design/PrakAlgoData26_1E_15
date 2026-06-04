@@ -53,8 +53,14 @@ Jawaban
 6. Karena 2*idxStart+1 menunjukkan posisi child kiri, sedangkan 2*idxStart+2 menunjukkan posisi child kanan. Rumus tersebut merepresentasikan struktur pohon biner dalam array tanpa memerlukan pointer left dan right seperti pada linked list
 
 -> Tugas
-
-Hasil running
-
-
-   
+1. Menambahkan method add rekursif
+   <img width="686" height="423" alt="image" src="https://github.com/user-attachments/assets/7fb10b69-a195-4d53-8b91-6f6f250aecec" />
+2. Menambahkan method untuk mencari mahasiswa dengan ipk terkecil/terbesar
+   <img width="635" height="661" alt="image" src="https://github.com/user-attachments/assets/83ee9a90-9474-4bcb-b29b-6a76d406377e" />
+   <img width="500" height="99" alt="image" src="https://github.com/user-attachments/assets/9b117f12-016b-4796-86c9-90914ec8c054" />
+3. Menambahkan method untuk menampilkan mahasiswa dengan IPK diatas 3.50
+   <img width="624" height="391" alt="image" src="https://github.com/user-attachments/assets/b30b6f52-da19-439c-a8df-73022de86fe0" />
+   <img width="503" height="99" alt="image" src="https://github.com/user-attachments/assets/9e7aff96-a1dd-4971-8e17-19b4185d3e04" />
+4. Menambahkan method add dan traverse pre order
+   <img width="580" height="437" alt="image" src="https://github.com/user-attachments/assets/688928a2-8d9b-4d9e-a1be-c4b53007b1c7" />
+   <img width="513" height="190" alt="image" src="https://github.com/user-attachments/assets/5e55c2ea-cf6d-4e61-914d-49d06116dbae" />
